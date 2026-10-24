@@ -66,3 +66,4 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+/motion_core_stm32/Debug/
